@@ -7,6 +7,7 @@
 #endif
 
 #define MEMDLEAK 1
+#define PREFER_MALLOC 1
 
 
 
