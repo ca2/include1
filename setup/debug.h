@@ -6,7 +6,7 @@
 #undef MEMDLEAK
 #endif
 
-#define MEMDLEAK 0
+#define MEMDLEAK 1
 #define PREFER_MALLOC 0
 #define BOUNDS_CHECK 0
 
